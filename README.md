@@ -1,2 +1,2 @@
 # to-do-list
-it is a to-do-list app
+This is a to-do-list-app for our day to day tasks. 
