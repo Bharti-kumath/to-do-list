@@ -147,6 +147,8 @@ margin: 0 auto 2rem;
 }
 .taskdone{
   text-decoration: line-through 0.2rem;
+    -webkit-text-decoration-line: line-through;
+
   color: rgb(32, 62, 107);
 }
 
